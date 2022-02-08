@@ -1,1 +1,1 @@
-git
+print(Hello World)
